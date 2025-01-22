@@ -1,0 +1,21 @@
+h1{
+    background-color: aqua;
+    color: red;
+    font-style: italic;
+}
+p{
+    background-color: rgb(255, 0, 170);
+    color: rebeccapurple;
+    font-size: large;
+}
+h4{
+   font-style: italic;
+}
+#box{
+    height: 200px;
+    width: 200px;
+    border: solid black 1px;
+    padding: 50px;
+    margin: 40px;
+    background-color: brown;
+}
