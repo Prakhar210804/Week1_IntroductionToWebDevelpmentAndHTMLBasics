@@ -1,0 +1,19 @@
+.box{
+    background-color: aqua;
+    color: red;
+    padding: 10px;
+    margin: 25px;
+    border: solid black 2px;
+    height: 200px;
+    box-sizing: border-box;
+}
+.box1
+{
+    background-color: rgb(100, 93, 93);
+    color: yellow;
+    padding: 10px;
+    margin: 25px;
+    border: solid black 2px;
+    height: 200px;
+    box-sizing: border-box;
+}
