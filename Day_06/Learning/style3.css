@@ -1,0 +1,47 @@
+.contianer{
+    width: 100%;
+    height: 212px;
+    background-color: yellow;
+    border: 2px solid red;
+}
+.box{
+    height: 212px;
+    width: 212px;
+    border: 2px solid green;
+    background-color:aqua;
+    
+    animation-name: Prakhar;
+    animation-duration: 3s;
+    animation-iteration-count: 2;
+    animation-timing-function: linear;
+    
+    animation-delay: 1s;
+    
+}
+
+/* @keyframes Prakhar {
+    0%{
+        width: 212px;
+         background: orange;
+    }
+    30%
+    {
+        width: 35%;
+     background: white;
+    }
+    100%{
+        width: 100%;
+        background: green;
+    } */
+    
+
+@keyframes Prakhar {
+    from
+    {
+        width: 212px;
+    }
+    to{
+        width: 100%;
+    }
+    
+}

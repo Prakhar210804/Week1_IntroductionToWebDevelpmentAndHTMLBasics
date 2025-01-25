@@ -1,0 +1,16 @@
+*{
+    --dark-var:#9812ac;
+}
+.container{
+    border: 1px solid red;
+    background-color: green;
+    height: 500px;
+    width: 500px;
+    background-color:var(--dark-var);
+}
+.box{
+    border: 2px solid green;
+    background: aqua;
+    color:var(--dark-var);
+    
+} 
